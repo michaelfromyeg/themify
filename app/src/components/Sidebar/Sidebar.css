@@ -1,0 +1,21 @@
+div.sidebar {
+  background-color: purple;
+  width: 20%;
+}
+
+.workspace-name {
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  font-weight: 800;
+  font-size: medium;
+  color: white;
+}
+
+.person-name {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: small;
+  color: grey;
+}
